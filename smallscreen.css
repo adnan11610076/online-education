@@ -1,0 +1,79 @@
+
+.container1::before{
+    
+    width:100%;
+    height: 36rem;
+    border: 2px solid ;
+ }
+
+ .edusite{
+    width: 100%;
+     text-align: center;  
+ }
+ .edusite p{
+     font-size: 1.3rem;
+ }
+ .animation{
+    margin: auto;
+    top: 158px;
+    left: 5px;
+ }
+ .container2{
+    width: 100%;
+    top: 319px;
+ }
+ .hr{
+    top: 350px;
+    left: 358px;
+ }
+ .container3{
+     width: 100%;
+     text-align: center;
+    align-items: center;
+}
+.img{
+    text-align: center;
+}
+ .container4{
+     width: 100%;
+ }
+ .container5{
+     width: 100%;
+ }
+ .container6{
+    width: 100%;
+ }
+ .container8{
+    width: 100%;
+ }
+ .container9{
+    width: 100%;
+ }
+ .container10{
+    width: 100%;
+    
+ }
+ .container10-1{
+    width: 100%;
+    flex-direction: column;
+    align-items:center;
+    border: none;
+}
+.container10-2{
+    width: 100%;
+    flex-direction: column;
+    align-items:center;
+}
+ 
+ .container11{
+    width: 100%;
+ }
+ .price{
+     width: 15rem;
+ }
+ .container12{
+    width: 100%;
+ }
+ .container13{
+    width: 100%;
+ }

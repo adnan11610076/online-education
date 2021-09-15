@@ -1,0 +1,245 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+.container1::before{
+    width:100%;
+    height: 48rem;
+  
+}
+.toggle-button{
+    display: flex;
+    
+}
+.nav-link{
+    display: none;
+    width: 100%;
+}
+#navbar{
+    flex-direction: column;
+    
+}
+.nav-link ul{
+    width: 100%;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.nav-link li a{
+    padding: .1rem .7rem;
+    font-size: 24px;
+}
+.nav-link.active{
+    display: flex;
+   width: 5rem;
+}
+.container1 h2{
+    margin-top:5px;
+    font-size: 14px;
+
+}
+
+.edusite{
+    top:5rem;
+    width: 100%;
+    text-align: center;
+}
+.animation{
+    margin: auto;
+    top: 100px;
+    left: 5px;
+}
+.container2{
+    width:100%;
+    text-align: center;
+top:420px;
+
+}
+
+.container3{
+    width: 100%;
+    top: 479px;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+.img{
+    width:15rem;
+}
+.container4{
+    top: 567px;
+    height: 44rem;
+    width: 100%;
+}
+.men{
+    position: relative;
+    top: -182px;
+    left: -33px;
+    flex-direction: column;
+    width: 5rem;
+    justify-content: space-evenly;
+}
+.men img{
+    left:3px;
+}
+.section{
+    position: absolute;
+    top: 372px;
+    left: 2px;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+}
+    
+.container5{
+    text-align: center;
+    width: 100%;
+    top: 37rem;
+    box-sizing: border-box;
+    align-items: center;
+    
+}
+#email{
+    position: relative;
+    left:43px;
+}
+#Subscribe{
+    left:-42px;
+}
+.faculty-img{
+    width:15rem;
+    text-align: center;
+}
+
+.container6 {
+    width: 100%;
+    top: 629px;
+    height: 61rem;
+    align-items: center;
+}
+.container6 p{
+    font-size: 15px;
+}
+.container6-1{
+    position: relative;
+    top: -15rem;
+  
+}
+
+.container7{
+    flex-direction: column;
+    align-items: center;
+    top: -4rem;
+}
+.container7-img{
+    width:6rem;
+}
+.wrokshop{
+    position: relative;
+    top: 5rem;
+width: 13rem;
+margin: 5px;
+}
+.container8{
+    width: 100%;
+    text-align: center;
+    height: 61rem;
+}
+.container8-0{
+    position: relative;
+    top: -27rem;
+   
+}
+.container8-1{
+    top:11rem;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+.faculty-hr{
+    margin: auto;
+}
+.container9{
+    width: 100%;
+    height: 42rem;
+}
+.container9-0 h1{
+    font-size: 30px;
+}
+.container9-0{
+    font-size: 15px;
+}
+.container9-hr{
+    left: 235px;
+}
+.container10{
+    width: 100%;;
+    border: none;
+
+}
+.container10-1{
+    width: 100%;
+    flex-direction: column;
+    align-items:center;
+    border: none;
+}
+.container10-2{
+    width: 100%;
+    flex-direction: column;
+    align-items:center;
+}
+
+
+.container11{
+    height: 46rem;
+    width: 100%;
+    text-align: center;
+}
+.container11 p{
+    font-size: 15px;
+}
+.container11-1{
+    flex-direction: column;
+    align-items: center;
+   
+}
+.price{
+   margin: 5px;
+}
+.container12{
+    width: 100%;
+    text-align: center;
+}
+.form{
+   flex-direction: column;
+}
+.details{
+    width:22rem;
+}
+#btn3{
+    width: 80px;
+    font-size: 9px;
+    padding: 12px;
+    border-radius: 8px;
+    margin: 2px auto;   
+}
+textarea{
+    margin: auto;
+}
+.container13{
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    height: 32rem;
+}
+.container13-1{
+    flex-direction: column;
+    width: 100%;
+}
+.logo{
+    width: 100%;
+}
+.container13 p{
+    border-top: 1px solid;
+    width: 100%;
+}
